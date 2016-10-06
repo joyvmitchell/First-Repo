@@ -1,7 +1,35 @@
 
-div{
-background-color:beige;
+body{
+  background-color: #18121e;
+  font-family: Arial;
+  margin: 20px 20px 20px 20px;
 }
-h1{
-  margin:auto;
+div{
+  background-color:#eac67a;
+  padding: 10px 20px 20px 20px;
+  border: 10px 10px 10px 10px;
+  border-style:solid;
+  border-color: #18121e;
+}
+img{
+  width: 500px;
+  border: 10px 10px 10px 10px;
+  border-style: solid;
+  border-color: #18121e;
+  position: relative;
+  margin-left: 160px;
+}
+#title{
+  background-color: beige;
+  border-left: 0px;
+  border-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+#heading{
+  text-align: center;
+  font-family: monospace;
+  font-size: 45px;
+  font-style:oblique;
+  color: #233237;
 }
